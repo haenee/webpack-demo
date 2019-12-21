@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "parser": "babel",
+    "extends": ["airbnb"],
+    "rules": {
+      "no-console": "off"
+    }
+  }
+}
